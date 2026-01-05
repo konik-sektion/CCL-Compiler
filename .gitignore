@@ -1,0 +1,9 @@
+*.exe
+*.out
+*.clam
+*.claml
+*.clc
+*.clamb
+.vscode
+.vscode/*
+*.json
